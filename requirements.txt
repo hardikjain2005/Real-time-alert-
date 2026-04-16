@@ -1,0 +1,4 @@
+asyncio
+cryptography
+requests
+python-dotenv
